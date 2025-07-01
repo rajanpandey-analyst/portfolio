@@ -36,7 +36,7 @@ This project analyzes flight operations data from High Cloud Airlines to identif
 
 ## 📊 Sample Visuals
 
-![Dashboard Sample]([Dashboard screenshot](https://github.com/user-attachments/assets/c57a821e-407b-43b7-b50e-d19b86723f8e)
+![Dashboard Sample]((https://github.com/user-attachments/assets/c57a821e-407b-43b7-b50e-d19b86723f8e)).
 
 ---
 
